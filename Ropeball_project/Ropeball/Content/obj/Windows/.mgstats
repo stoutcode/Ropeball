@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/files/Ropeball/Ropeball_project/Ropeball/Content/inspector_clap.wav","D:/files/Ropeball/Ropeball_project/Ropeball/Content/bin/Windows/inspector_clap.xnb","SoundEffectProcessor","SoundEffectContent",206342,137565,0,2325934
+"D:/files/Ropeball/Ropeball_project/Ropeball/Content/jivatma_levelcomplete.wav","D:/files/Ropeball/Ropeball_project/Ropeball/Content/bin/Windows/jivatma_levelcomplete.xnb","SoundEffectProcessor","SoundEffectContent",195360,195421,0,1457361
+"D:/files/Ropeball/Ropeball_project/Ropeball/Content/shadydave_anticipation.mp3","D:/files/Ropeball/Ropeball_project/Ropeball/Content/bin/Windows/shadydave_anticipation.xnb","SongProcessor","SongContent",6574568,140,1,153831
+"D:/files/Ropeball/Ropeball_project/Ropeball/Content/wil-stewart_unplash.jpg","D:/files/Ropeball/Ropeball_project/Ropeball/Content/bin/Windows/wil-stewart_unplash.xnb","TextureProcessor","Texture2DContent",2964465,27000085,0,7971644

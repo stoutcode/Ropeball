@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/files/Ropeball/Ropeball_project/Ropeball/Content/inspector_clap.wav</File>
+    <File>D:/files/Ropeball/Ropeball_project/Ropeball/Content/jivatma_levelcomplete.wav</File>
+    <File>D:/files/Ropeball/Ropeball_project/Ropeball/Content/shadydave_anticipation.mp3</File>
+    <File>D:/files/Ropeball/Ropeball_project/Ropeball/Content/wil-stewart_unplash.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/kurssit/ohj1/ht/Ropeball/Ropeball/Content/cgeffex_hammer.mp3</SourceFile>
+  <SourceTime>2019-10-29T20:36:24.0176321+02:00</SourceTime>
+  <DestFile>D:/kurssit/ohj1/ht/Ropeball/Ropeball/Content/bin/Windows/cgeffex_hammer.xnb</DestFile>
+  <DestTime>2019-10-29T20:42:41.0880761+02:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T18:35:54+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T18:35:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/kurssit/ohj1/ht/Ropeball/Ropeball/Content/bin/Windows/cgeffex_hammer.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
