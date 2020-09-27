@@ -1,4 +1,4 @@
-**Ropeball**
+#Ropeball
 
 Ropeball is game where you use ropes to swing your cosmic ball around and collect
 stars. After collecting all the stars your can progress to next level by going
